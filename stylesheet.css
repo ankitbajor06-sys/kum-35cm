@@ -1,0 +1,41 @@
+        h1{
+            color: red;
+            font-size: 80px;
+        }
+        #heading2 {
+            color: blue;
+            font-size: 80px;
+        }
+        .headingclass{
+            color: green;
+            font-size: 60px;
+        }
+
+        #container{
+            border: 2px double black;
+            width: 300px;
+            padding: 20px;
+            padding-left: 100pxpx;
+            padding-right: 30px;
+            padding-bottom: 40px;
+            padding-top: 50px;
+            margin-top: 250px;
+            margin-left: 250px;
+            margin-bottom: 250px;
+            margin-right: 500px;
+            background-image: url("natu.webp");
+            border-radius: 10px;
+            color: red;
+            box-shadow: 150px 150px 175px red;
+            text-shadow: 100px 100px 100px red;
+            overflow:visible;
+            overflow: hidden;
+            overflow: scroll;
+            overflow: auto;
+        }
+            body{
+             background-color:lightyellow;
+            }
+            #container1{
+                border:50px double black
+            }
